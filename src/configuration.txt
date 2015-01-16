@@ -1,0 +1,6 @@
+[Configuration Data]
+poolSize = 1
+userName = root
+password =""
+host = 127.0.0.1
+database = new_database
